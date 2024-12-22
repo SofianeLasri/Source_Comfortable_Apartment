@@ -16,7 +16,13 @@ Be aware that you may need to increase the lightmap scale of the map brushes to 
 
 ## How can I get the materials and models?
 
-All the materials and models are packed into the [Steam Workshop released .bsp file](https://steamcommunity.com/sharedfiles/filedetails/?id=3387404618). Because it not a creation of mine, I can't legitly provide them on this repo. But you can extract them from the .bsp file using tools like [VIDE](https://developer.valvesoftware.com/wiki/VIDE)
+All the materials and models are packed into the [Steam Workshop released .bsp file](https://steamcommunity.com/sharedfiles/filedetails/?id=3387404618). Because they are not a creation of mine, I can't legitly provide them on this repo. But you can extract them from the .bsp file using tools like [VIDE](https://developer.valvesoftware.com/wiki/VIDE)
+
+## Credits
+
+Thanks to (Mark2580)[steam://openurl/https://steamcommunity.com/id/mark2580/] for the models and materials used in this map. <3
+
+Sorry for the other models and materials that I can't credit, I don't know who made them. :')
 
 ## Screenshots
 
