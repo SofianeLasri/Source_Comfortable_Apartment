@@ -10,7 +10,7 @@ Be aware that you may need to increase the lightmap scale of the map brushes to 
 
 **VVIS:** `-game $gamedir $path\$file`
 
-**VRAD:** `-hdr -final -staticproppolys -textureshadows -staticproplighting -StaticPropBounce 10 -aoscale 1.5 -bounce 512 -chop 1 -maxchop 1 -dispchop 1 -ambientocclusion -softencosine -threads 16 -game $gamedir $path\$file`
+**VRAD:** `-hdr -final -staticproppolys -textureshadows -staticproplighting -StaticPropBounce 10 -aoscale 1.5 -bounce 512 -chop 1 -maxchop 1 -dispchop 1 -ambientocclusion -softencosine -aoNoSquare -bounceFromNamed -threads 16 -game $gamedir $path\$file`
 
 ⚠️ Please note that because this map was at first, a lighting experiment, the compile parameters may be a bit overkill. I think you can easily reduce the number of bounces and ambient occlusion scale to get a faster compile without losing much quality. But you shouldn't touch the to lightmap scale if you do not plan to intregrate this map into a bigger one.
 
